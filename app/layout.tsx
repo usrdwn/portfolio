@@ -6,7 +6,10 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "Léo Sauvey - Portfolio",
-  description: "Étudiant en Master of Engineering | À la recherche d'une alternance en informatique",
+  description: "Étudiant en Master of Engineering à SUPINFO | À la recherche d'une alternance en informatique",
+  icons: {
+    icon: "/favicon.ico",
+  },
     generator: 'v0.dev'
 }
 
